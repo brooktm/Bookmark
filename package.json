@@ -1,0 +1,22 @@
+{
+  "name": "bookmark_app",
+  "version": "1.0.0",
+  "description": "bookmarkapp",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooktm/Bookmark.git"
+  },
+  "author": "Brook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooktm/Bookmark/issues"
+  },
+  "homepage": "https://github.com/brooktm/Bookmark#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
